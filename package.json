@@ -1,0 +1,14 @@
+{
+  "name": "dobetterbot",
+  "version": "1.0.0",
+  "main": "bot.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pip": "^0.0.1"
+  }
+}
